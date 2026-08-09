@@ -1,30 +1,30 @@
-<img width="100em" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="100em" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"/> <h1 align="center"> *Anthony Albert* </h1><br>
+<img align="left" height="50" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"/> <h1 align="center"> *Anthony Albert* </h1><br>
 
- 
-> Estudante de Engenharia de Software 98%... <br>Tecnologia é minha área desde adolescência, investindo em conhecimento desde cedo, atualmente estou desenvolvendo minhas habilidades, estudando conceitos, softwares e linguagens de programação <br>Em resumo: em busca contínua em estar no jogo, sempre buscando melhorar.
+> <h3> Estudante de Engenharia de Software 98%... <br>Tecnologia é minha área desde adolescência, investindo em conhecimento desde cedo, atualmente estou desenvolvendo minhas habilidades, estudando conceitos, softwares e linguagens de programação <br>Em resumo: em busca contínua em estar no jogo, sempre buscando melhorar. </h3>
 
 #### ***Bem vindo ao meu mundo!***
 
 > <img height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
  ##
- 🌱 *Atualmente estudando:* <br>
- - Engenharia de Software
- - Programação
- - Arquitetura de sistemas e linguagens
- - Python
- - Java
- - Javascript
- - Git e Github. <br>
+<h2>🌱 <strong>Cursando:</strong> <br>
+ <em>Bacharelado em Engenharia de Software</em><br><br><br>
+ <strong>Atualmente estudando:</strong><br>
+ - Programação<br>
+ - Arquitetura de sistemas e linguagens<br>
+ - Python<br>
+ - Java<br>
+ - Javascript<br>
+ - Git e Github.</h2>  <br>
  <img align="right" height="100"  src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 
   <br>
- ⚡ Sempre evoluindo - paixão em aprender.
+ <h2>💻⚡ Sempre evoluindo - paixão em aprender.</h2>
 
 ##
 <div>
-<img height="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+<img height="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
 ### Linguagens devolvidas / em desenvolvimento <br><br>
 
@@ -36,7 +36,8 @@
    
   <img width="120"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-<img align="right" height="80" src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif"/>
+<img align="right" height="80" src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif"/><br>
+
 ### Onde estou? 
 
 ##
