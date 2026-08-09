@@ -2,7 +2,7 @@
 
 <img align="left" height="50" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"/> <h1 align="center"> *Anthony Albert* </h1><br>
 
-> <h3> Estudante de Engenharia de Software 98%... <br>Tecnologia é minha área desde adolescência, investindo em conhecimento desde cedo, atualmente estou desenvolvendo minhas habilidades, estudando conceitos, softwares e linguagens de programação <br>Em resumo: em busca contínua em estar no jogo, sempre buscando melhorar. </h3>
+> <h3> Estudante de Engenharia de Software 98%... <br>Tecnologia é minha área desde adolescência, investindo em conhecimento desde cedo, atualmente estou desenvolvendo minhas habilidades, estudando conceitos, softwares e linguagens de programação <br>Em resumo: na busca contínua em estar no jogo, sempre buscando melhorar. </h3>
 
 #### ***Bem vindo ao meu mundo!***
 
@@ -26,7 +26,7 @@
 <div>
 <img height="250" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
 
-### Linguagens devolvidas / em desenvolvimento <br><br>
+### Linguagens desenvolvidas / em desenvolvimento <br><br>
 
   <a href="https://github.com/AnthonyOdore">
 <img width="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
